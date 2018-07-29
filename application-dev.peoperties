@@ -1,0 +1,2 @@
+server.port=9079
+spring.application.name=config-server-9079
