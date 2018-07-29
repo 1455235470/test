@@ -1,0 +1,4 @@
+#servert
+server.port=9079
+#sprtin
+spring.application.name=config-server-9079
